@@ -1,0 +1,7 @@
+test tests::bench_no_sandbox ... bench:      14,895 ns/iter (+/- 585)
+test tests::bench_sandbox    ... bench:      20,989 ns/iter (+/- 1,206)
+
+
+opt_sbox = 1579
+no_sbox = 1553
+
